@@ -6,3 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soso-15315&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Likes](https://badgen.org/img/zenn/so_nishimura/likes?style=plastic)](https://zenn.dev/so_nishimura)
+[![Contributions](https://badgen.org/img/qiita/soso_15315/contributions?style=plastic)](https://qiita.com/soso_15315)
+[![Rating](https://badgen.org/img/atcoder/soso15/rating/algorithm?style=plastic)](https://atcoder.jp/users/soso15?contestType=algo)
