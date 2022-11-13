@@ -7,6 +7,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=soso-15315&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Likes](https://badgen.org/img/zenn/so_nishimura/likes?style=flat&1)](https://zenn.dev/so_nishimura)
-[![Contributions](https://badgen.org/img/qiita/soso_15315/contributions?style=flat&1)](https://qiita.com/soso_15315)
-[![Rating](https://badgen.org/img/atcoder/soso15/rating/algorithm?style=flat&1)](https://atcoder.jp/users/soso15?contestType=algo)
+[![Likes](https://badgen.org/img/zenn/so_nishimura/likes?style=flat&2)](https://zenn.dev/so_nishimura)
+[![Contributions](https://badgen.org/img/qiita/soso_15315/contributions?style=flat&2)](https://qiita.com/soso_15315)
+[![Rating](https://badgen.org/img/atcoder/soso15/rating/algorithm?style=flat&2)](https://atcoder.jp/users/soso15?contestType=algo)
