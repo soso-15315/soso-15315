@@ -8,4 +8,4 @@
 
 [![Likes](https://badgen.org/img/zenn/so_nishimura/likes?style=flat&5)](https://zenn.dev/so_nishimura)
 [![Contributions](https://badgen.org/img/qiita/soso_15315/contributions?style=flat&5)](https://qiita.com/soso_15315)
-[![Rating](https://badgen.org/img/atcoder/soso15/rating/algorithm?style=flat&6)](https://atcoder.jp/users/soso15?contestType=algo)
+[![Rating](https://badgen.org/img/atcoder/soso15/rating/algorithm?style=flat&1)](https://atcoder.jp/users/soso15?contestType=algo)
